@@ -14,3 +14,8 @@ margin-right: auto;
 body {
     font-family:  monospace;
 }
+
+#kofi {
+    position: fixed;
+    top: 10px;
+}
